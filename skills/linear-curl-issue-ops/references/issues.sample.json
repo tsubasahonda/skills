@@ -1,0 +1,10 @@
+[
+  {
+    "title": "[Sample] First issue from JSON",
+    "description": "## 背景\nサンプル起票です。\n\n## スコープ\n- JSON から issue を作成する\n\n## 受け入れ条件\n- 起票成功\n- URL が返る\n- identifier が返る\n\n## ラベル案\nsample"
+  },
+  {
+    "title": "[Sample] Second issue from JSON",
+    "description": "bulk create test"
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linear Curl Ops"
+  short_description: "Linear GraphQL APIをcurlで操作する"
+  default_prompt: "Use this skill to create, list, and update Linear issues via curl + PAT."
